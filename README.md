@@ -2,7 +2,6 @@
 
 
 - 🔭 I’m currently working on ML & Deep Learning projects. 
-- 🌱 I’m currently learning Deep Learning and Data Science. 
 - 👯 I’m looking to collaborate on any Web-D and ML projects. 
 - 💬 Ask me about anything, I'm up for a chat. 
 - 📫 How to reach me: <a href="mailto:kushagra.garg19@gmail.com">Send Email</a> & [LinkedIn](https://www.linkedin.com/in/kushagra-garg-00421b172/)
