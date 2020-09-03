@@ -1,6 +1,6 @@
+![Kushagra's github stats](https://github-readme-stats.vercel.app/api?username=kushagra219&show_icons=true&theme=merko&count_private=true&hide=contribs&show_icons=true)
+
 ### Hi there 👋
-
-
 - 🔭 I’m currently working on ML & Deep Learning projects. 
 - 👯 I’m looking to collaborate on any Web-D and ML projects. 
 - 💬 Ask me about anything, I'm up for a chat. 
